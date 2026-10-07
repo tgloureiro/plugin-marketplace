@@ -44,8 +44,8 @@
       }
     },
     "banger": {
-      "sha": "c6ffcb59ed7d6264aa71de1604f7fb3a5350c8be",
-      "version": "0.2.1",
+      "sha": "fe987f232cc48da2c3c159ee0152e68576dc2349",
+      "version": "0.2.2",
       "components": {
         "mcpServers": [
           {
