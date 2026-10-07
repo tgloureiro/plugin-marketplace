@@ -414,7 +414,7 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/MuchBetterApps/banger-plugin.git",
+        "url": "https://github.com/bangermail/banger-plugin.git",
         "sha": "3cb62f3f2461df8e354d5928a7fb5e24cdd3e89d"
       },
       "homepage": "https://bangermail.com/banger-mcp/",
