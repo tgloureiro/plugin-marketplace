@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/bangermail/banger-plugin.git",
-        "sha": "3cb62f3f2461df8e354d5928a7fb5e24cdd3e89d"
+        "sha": "e63fb34d6282a83e6c1937a59ef5e7be15050052"
       },
       "homepage": "https://bangermail.com/banger-mcp/",
       "keywords": ["banger", "bangermail", "banger mail", "banger email"],
